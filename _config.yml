@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Shabnam Choudhury"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D Scholar @ IIT Bombay"
+  location         : "Mumbai"
+  employer         : 
   uri              : # URL
   email            : "mailto:choudhury.shabnam6@gmail.com" 
 
@@ -34,15 +34,15 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.in/citations?user=VUf1bx0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : 
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "Shabnamchoudhury"
+  github           : "Shabnam Choudhury"
   kaggle           : # Username  
   stackoverflow    :  
 
