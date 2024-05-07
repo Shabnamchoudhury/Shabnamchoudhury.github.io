@@ -3,6 +3,7 @@ title: "Visual Question Answering in Remote Sensing with Cross-Attention and Mul
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
+date: 2023
 venue: 'IGARSS 2023'
 ---
 
