@@ -1,5 +1,5 @@
 ---
-title: "An ensemble approach for the detection and classification of mixed pixels of remotely sensed images."
+title: "An ensemble approach for the detection and classifiction of mixed pixels of remotely sensed images"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
