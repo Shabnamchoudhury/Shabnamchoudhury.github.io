@@ -17,35 +17,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* JRF  (2020-2021)
+  * IIT Bombay-ISRO
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Research Associate (2018-2020)  
+  * IIT Bhubaneswar-DRDO
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image Processing
+* Computer Vision
+* Deep Learning
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Achievements
+======
+* PMRF - Recepient of the prestigious PMRF scholarship in 2022.
+* Silver Medal - M.Tech (Electronics systems and Communications) specialization
+* Gate’16 - Passed the Graduate Aptitude Test in Engineering (GATE) with a score of 99% (Electrical Engineering)
+* Gold Medal - B.Tech Electrical Engineering
   
 Talks
 ======
@@ -59,6 +56,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Events
 ======
-* Currently signed in to 43 different slack teams
+*Workshops-2024 
+   *Foundations of Artificial Intelligence and its Application, Salipur Autonomous College, Cuttack
+   *Foundations of Artificial Intelligence and its Application, NSM City College, Cuttack
+* Workshop 2023
+   *Basics of Deep Learning and its applications, NIT Rourkela
