@@ -54,7 +54,7 @@ Teaching
 Events
 ======
 * Workshops-2024 
-   * Foundations of Artificial Intelligence and its Application, Salipur Autonomous College, Cuttack
-   * Foundations of Artificial Intelligence and its Application, NSM City College, Cuttack
-* Workshop 2023
-   * Basics of Deep Learning and its applications, NIT Rourkela
+  * Foundations of Artificial Intelligence and its Application, Salipur Autonomous College, Cuttack
+  * Foundations of Artificial Intelligence and its Application, NSM City College, Cuttack
+* Workshop-2023
+  * Basics of Deep Learning and its applications, NIT Rourkela
