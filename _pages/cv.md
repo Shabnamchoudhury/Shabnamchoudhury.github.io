@@ -44,11 +44,6 @@ Achievements
 * Gate’16 - Passed the Graduate Aptitude Test in Engineering (GATE) with a score of 99% (Electrical Engineering)
 * Gold Medal - B.Tech Electrical Engineering
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -58,8 +53,8 @@ Teaching
   
 Events
 ======
-*Workshops-2024 
-   *Foundations of Artificial Intelligence and its Application, Salipur Autonomous College, Cuttack
-   *Foundations of Artificial Intelligence and its Application, NSM City College, Cuttack
+* Workshops-2024 
+   * Foundations of Artificial Intelligence and its Application, Salipur Autonomous College, Cuttack
+   * Foundations of Artificial Intelligence and its Application, NSM City College, Cuttack
 * Workshop 2023
-   *Basics of Deep Learning and its applications, NIT Rourkela
+   * Basics of Deep Learning and its applications, NIT Rourkela
