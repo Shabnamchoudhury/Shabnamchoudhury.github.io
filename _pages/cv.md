@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD. in CSRE, IIT Bombay advised by Prof. Biplab Banerjee, 2021 - present
+* M.Tech. in Electrical Engineering, NIT Rourkela, 2016-2018
+* B.Tech. in Electrical Engineering, Odisha University of Technology and Research, 2011-2015
 
 Work experience
 ======
