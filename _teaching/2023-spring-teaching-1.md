@@ -7,7 +7,6 @@ venue: "IIT Bombay"
 date: 2023-08-01
 location: "Mumbai, India"
 ---
-
-    -Machine Learning for Remote sensing-1
-    -Machine Learning for Remote sensing-2
+Machine Learning for Remote sensing-1
+Machine Learning for Remote sensing-2
 
