@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 4"
+title: "A Multithreaded Model for Cancer Tissue Heterogeneity: An Application"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-venue: 'GitHub Journal of Bugs'
+permalink: /publication/2022-09-06-paper-title-number-4
+excerpt: ''
+venue: 'bioRxiv'
 
 ---
 
