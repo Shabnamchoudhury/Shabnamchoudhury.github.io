@@ -4,7 +4,7 @@ collection: teaching
 type: "M.tech course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "IIT Bombay"
-date: 2023
+date: 2023-06-03
 location: "Mumbai, India"
 ---
 
