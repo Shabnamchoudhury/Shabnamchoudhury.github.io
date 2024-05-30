@@ -5,6 +5,5 @@ permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: ''
 venue: 'IGARSS'
 ---
-```
-The problem of visual question answering (VQA) in remote sensing is solved using multi-modal bottleneck cross attention network. The paper was presented at International Geoscience and Remote Sensing Symposium 2023
-```
+The problem of visual question answering (VQA) in remote sensing is solved using multi-modal bottleneck cross attention network. The paper was presented at International Geoscience and Remote Sensing Symposium, Pasadena, California, USA.
+
