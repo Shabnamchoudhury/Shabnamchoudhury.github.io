@@ -10,3 +10,4 @@ citation:
 
 ---
 
+The mixed-pixel classification problem was solved using a novel ensemble learning technique. The paper was awarded as the best paper in the IEEE eastern zone chapter.
