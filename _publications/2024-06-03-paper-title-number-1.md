@@ -3,7 +3,7 @@ title: "CrossVG: Visual Grounding in Remote Sensing with Modality Guided Interac
 collection: publications
 permalink: /publication/2024-06-03-paper-title-number-1
 excerpt: ''
-venue: 'IGARSS(oral)' 
+venue: 'IGARSS (oral)' 
 
 ---
 
