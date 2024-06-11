@@ -16,13 +16,10 @@ I have served as a Research Fellow at [IIT Bhubaneswar](https://www.iitbbs.ac.in
 
 <div style="height:400px;overflow:auto">
 <table rules=none style="border:0 none;">
-<col width="100px">
 <col width="636px">
 
-<tr><td style="border:0 none;">Paper accepted at neural networks (IF :7.8)</td></tr>
-
+<tr><td style="border:0 none;">Paper accepted at Neural Networks (IF :7.8)</td></tr>
 <tr><td style="border:0 none;">Oral presentation at IGARSS </td></tr>
-
 <tr><td style="border:0 none;">Paper submitted to ISPRS Journal of Photogrammetry and Remote Sensing (IF :12.7)</td></tr>
 
 
