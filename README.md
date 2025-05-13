@@ -1,16 +1,4 @@
-# Astro Academia Documentation
-
-## What is Astro Academia?
-
-Astro Academia is a personal academic website built using Astro, a modern static site generator. The website is designed to showcase academic achievements, research papers, blog posts, and a CV. It is fast, responsive, and easy to maintain, making it an ideal platform for academics and researchers to present their work.
-
-If you find Astro Academia useful or appreciate my work, consider supporting me! Your support helps keep this project maintained and encourages further development. 🚀✨
-
-<a href="https://buymeacoffee.com/maiobarbero" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## How to use it
-
-Fork this repository to create your new website starting from this template.
+# My Profile
 
 ## How to Create a CV Using the `cv.ts` File
 
