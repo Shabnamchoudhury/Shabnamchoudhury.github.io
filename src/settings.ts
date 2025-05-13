@@ -1,0 +1,79 @@
+export const profile = {
+	fullName: "Dr. Shabnam Choudhury",
+	title: "AI researcher",
+	institute: "Indian Instutute of Technology, Bombay",
+	author_name: "Choudhury, S.", // Author name to be highlighted in the papers section
+	research_areas: [
+		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{
+			title: "Computer Vision",
+			description: "Brief description of the research interest",
+			field: "computer-science",
+		},
+		{
+			title: "Deep Learning",
+			description: "Brief description of the research interest",
+			field: "engineering",
+		},
+		{
+			title: "Remote Sensing",
+			description: "Brief description of the research interest",
+			field: "computer-science",
+		},
+	],
+	research_statement:
+		"My research centers on advancing the frontiers of artificial intelligence through deep learning and computer vision, with a particular focus on remote sensing and multimodal data integration. By leveraging state-of-the-art machine learning methodologies, I strive to address complex real-world challenges at the intersection of AI and geospatial intelligence, contributing to transformative innovations in environmental monitoring, Earth observation, and beyond.",
+	current_projects: [
+		{
+			title: "Proposed X-JEPA",
+			description:
+				"A novel self-supervised framework for cross-modal remote sensing retrieval via predictive semantic alignment.",
+		},
+		{
+			title: "Developed ReJEPA",
+			description:
+				"A novel self-supervised learning model for multimodal remote sensing, integrating masked modeling and joint predictive architectures.",
+		},
+		{
+			title: "Developed AMVG",
+			description:
+				"AMVG, the most efficient visual grounding framework in remote sensing to date, achieving state-of-the-art performance across all major RS datasets.",
+		},
+		{
+			title: "Designed SPCA-Net",
+			description:
+				"Designed a cross-modal retrieval framework SPCA-Net leveraging a unified attention network to boost semantic alignment across heterogeneous remote sensing data.",
+		},
+	],
+	research_impact:
+		"My research has significantly advanced the field of remote sensing by introducing novel deep learning architectures for visual grounding, cross-modal retrieval, and semantic alignment. Through innovative frameworks such as REJEPA, CrossVG, and X-JEPA, my work has enabled more accurate interpretation and retrieval of complex geospatial data. These contributions have laid the groundwork for intelligent Earth observation systems, with wide-ranging applications in environmental monitoring, low-shot classification, and sustainable agriculture. By bridging the gap between computer vision and remote sensing through multimodal learning, my research continues to shape next-generation AI solutions for planetary-scale challenges.",
+};
+
+// Set equal to an empty string to hide the icon that you don't want to display
+export const social = {
+	email: "shabnamchoudhury@iitb.ac.in",
+	linkedin: "https://in.linkedin.com/in/shabnam-choudhury-b623bb16a",
+	x: "",
+	github: "https://github.com/Shabnamchoudhury/",
+	gitlab: "",
+	scholar: "https://scholar.google.com/citations?user=VUf1bx0AAAAJ&hl=en",
+	inspire: "",
+	arxiv: "",
+};
+
+export const template = {
+	website_url: "https://localhost:4321", // Astro needs to know your site’s deployed URL to generate a sitemap. It must start with http:// or https://
+	menu_left: false,
+	transitions: true,
+	lightTheme: "autumn", // Select one of the Daisy UI Themes or create your own. Does not work. Edit in src/components/Head.astro
+	darkTheme: "business", // Select one of the Daisy UI Themes or create your own
+	excerptLength: 200,
+	postPerPage: 5,
+	base: "", // Repository name starting with /
+};
+
+export const seo = {
+	default_title: "Dr. Shabnam Choudhury Portfolio",
+	default_description: "Dr. Shabnam Choudhury Portfolio and personal website.",
+	default_image: "/images/astro-academia.png",
+};
