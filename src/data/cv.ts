@@ -151,6 +151,15 @@ export const awards = [
 export const publications = [
 	{
 		title:
+			"Boosting Cross-Modal Retrieval in Remote Sensing via a Novel Unified Attention Network",
+		authors: "Choudhury, S., Saini, D., Banerjee, B.",
+		journal: "Neural Networks",
+		time: "2024",
+		link: "https://doi.org/10.1016/j.neunet.2024.106718",
+		abstract: "",
+	},
+	{
+		title:
 			"X-JEPA: A Novel Self-Supervised Framework for Cross-Modal Remote Sensing Retrieval via Predictive Semantic Alignment",
 		authors:
 			"Choudhury, S., Mehrotra, S., Salunkhe, Y., Rajan, V., Chaudhuri, S., Banerjee, B.",
@@ -190,25 +199,6 @@ export const publications = [
 	},
 	{
 		title:
-			"Spatially-Aware Cross-Modal Contrastive Learning for Low-Shot HSI Classification",
-		authors: "Vasim, A., Kashyap, P., Choudhury, S., Banerjee, B.",
-		journal:
-			"ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing",
-		time: "2025",
-		link: "https://doi.org/10.1109/ICASSP49660.2025.10888817",
-		abstract: "",
-	},
-	{
-		title:
-			"Boosting Cross-Modal Retrieval in Remote Sensing via a Novel Unified Attention Network",
-		authors: "Choudhury, S., Saini, D., Banerjee, B.",
-		journal: "Neural Networks",
-		time: "2024",
-		link: "https://doi.org/10.1016/j.neunet.2024.106718",
-		abstract: "",
-	},
-	{
-		title:
 			"CrossVG: Visual Grounding in Remote Sensing with Modality-Guided Interactions",
 		authors: "Choudhury, S., Kurkure, P., Talwar, P., Banerjee, B.",
 		journal: "IGARSS 2024",
@@ -225,6 +215,26 @@ export const publications = [
 		link: "https://doi.org/10.1007/978-981-97-7762-4_8",
 		abstract: "",
 	},
+
+	{
+		title:
+			"An Ensemble Approach for the Detection and Classification of Mixed Pixels of Remotely Sensed Images",
+		authors: "Choudhury, S., Chaudhuri, A., Patra, D.",
+		journal: "RAIT 2018",
+		time: "2018",
+		link: "https://doi.org/10.1109/RAIT.2018.8389026",
+		abstract: "",
+	},
+	{
+		title:
+			"Spatially-Aware Cross-Modal Contrastive Learning for Low-Shot HSI Classification",
+		authors: "Vasim, A., Kashyap, P., Choudhury, S., Banerjee, B.",
+		journal:
+			"ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing",
+		time: "2025",
+		link: "https://doi.org/10.1109/ICASSP49660.2025.10888817",
+		abstract: "",
+	},
 	{
 		title:
 			"Visual Question Answering in Remote Sensing with Cross Attention and Multimodal Information Bottleneck",
@@ -233,15 +243,6 @@ export const publications = [
 		journal: "IGARSS 2023",
 		time: "2023",
 		link: "https://doi.org/10.1109/IGARSS52108.2023.10281414",
-		abstract: "",
-	},
-	{
-		title:
-			"An Ensemble Approach for the Detection and Classification of Mixed Pixels of Remotely Sensed Images",
-		authors: "Choudhury, S., Chaudhuri, A., Patra, D.",
-		journal: "RAIT 2018",
-		time: "2018",
-		link: "https://doi.org/10.1109/RAIT.2018.8389026",
 		abstract: "",
 	},
 	{
