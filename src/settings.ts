@@ -7,17 +7,20 @@ export const profile = {
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 		{
 			title: "Computer Vision",
-			description: "Brief description of the research interest",
+			description:
+				"My research focuses on applying deep learning and computer vision techniques to remote sensing data for land use classification and environmental monitoring.",
 			field: "computer-science",
 		},
 		{
 			title: "Deep Learning",
-			description: "Brief description of the research interest",
+			description:
+				"I am interested in developing robust deep learning models for automated analysis of satellite imagery, with applications in object detection and scene understanding.",
 			field: "engineering",
 		},
 		{
 			title: "Remote Sensing",
-			description: "Brief description of the research interest",
+			description:
+				"My work explores the integration of computer vision and remote sensing to enhance data-driven approaches for geospatial analysis and disaster assessment.",
 			field: "computer-science",
 		},
 	],
