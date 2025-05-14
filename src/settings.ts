@@ -2,7 +2,9 @@ export const profile = {
 	fullName: "Shabnam Choudhury",
 	title: "AI researcher",
 	institute: "Indian Instutute of Technology, Bombay",
-	author_name: "Choudhury, S.", // Author name to be highlighted in the papers section
+	author_name: "Choudhury, S.", // Author name to be highlighted in the papers section,
+	profileStatement:
+		"Aspiring AI researcher with a strong background in deep learning, computer vision for remote sensing, and multimodal data. Eager to apply cutting-edge machine learning techniques to solve real-world problems at the intersection of artificial intelligence and remote sensing applications. Passionate about contributing to transformative research in AI and remote sensing technologies.",
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 		{

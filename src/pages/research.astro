@@ -6,6 +6,7 @@ import List from "@/components/ui/List.astro";
 import { RESEARCH_ICONS } from "@/data/researchIcons";
 
 const {
+	fullName,
 	research_areas,
 	research_statement,
 	current_projects,
@@ -13,7 +14,7 @@ const {
 } = profile;
 ---
 
-<Layout title="Research | Shabnam Choudhury">
+<Layout title=`Research | ${fullName}`>
   <div class="prose max-w-none">
     <h1 class="text-3xl font-bold mb-8">Research Statement</h1>
 

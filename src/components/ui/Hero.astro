@@ -3,7 +3,8 @@ import { Image } from "astro:assets";
 
 import SocialIcons from "./SocialIcons.astro";
 
-const { fullName, title, institute, profilePicture } = Astro.props;
+const { fullName, title, institute, profilePicture, profileStatement } =
+	Astro.props;
 ---
 <div class='flex-1'>
   <h1 class='text-4xl font-bold mb-4'>
@@ -11,8 +12,7 @@ const { fullName, title, institute, profilePicture } = Astro.props;
   </h1>
   <p class='text-xl text-gray-600 mb-4'>{title}{institute ? ` at ${institute}` : ''}</p>
   <p class='text-lg mb-6 text-justify'>
-    Aspiring AI researcher with a strong background in deep learning, computer vision for remote sensing, and multimodal data. Eager to apply cutting-edge machine learning techniques to solve real-world problems at the
-intersection of artificial intelligence and remote sensing applications. Passionate about contributing to transformative research in AI and remote sensing technologies.
+    {profileStatement}
   </p>
   <div class='flex gap-4'>
     <SocialIcons />
