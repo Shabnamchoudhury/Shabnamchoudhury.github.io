@@ -1,13 +1,13 @@
 ---
-import { isExperience } from '@/types/cv';
-import type { Experience, Education } from '@/types/cv';
+import { isExperience } from "@/types/cv";
+import type { Experience, Education } from "@/types/cv";
 
 interface Props {
-	elements: (Experience | Education)[]
-	colored: boolean
+	elements: (Experience | Education)[];
+	colored: boolean;
 }
 
-const { elements, colored } = Astro.props
+const { elements, colored } = Astro.props;
 ---
 
 <ul
@@ -36,7 +36,7 @@ const { elements, colored } = Astro.props
 					<time class='font-mono italic'>{element.time}</time>
 					<div class='text-lg font-black'>{isExperience(element) ? element.title : element.degree}</div>
 					<div>{element.description}</div>
-					<div>{isExperience(element) ? element.company : element.school}</div>
+					<div class="font-mono italic">{isExperience(element) ? element.company : element.school}</div>
 					<div>{element.location}</div>
 				</div>
         <hr class:list={[{ 'bg-accent': colored }]} />
