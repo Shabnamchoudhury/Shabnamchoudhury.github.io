@@ -69,7 +69,7 @@ export const template = {
 	menu_left: false,
 	transitions: true,
 	lightTheme: "autumn", // Select one of the Daisy UI Themes or create your own. Does not work. Edit in src/components/Head.astro
-	darkTheme: "business", // Select one of the Daisy UI Themes or create your own
+	darkTheme: "sunset", // Select one of the Daisy UI Themes or create your own
 	excerptLength: 200,
 	postPerPage: 5,
 	base: "", // Repository name starting with /
