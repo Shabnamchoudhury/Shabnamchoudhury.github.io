@@ -1,13 +1,13 @@
 ---
-import { isSkill } from '@/types/cv';
-import type { Skill, Publication } from '@/types/cv';
-import { highlightAuthor } from '@/lib/utils'
+import { isSkill } from "@/types/cv";
+import type { Skill, Publication } from "@/types/cv";
+import { highlightAuthor } from "@/lib/utils";
 
 interface Props {
-	elements: (Skill | Publication)[]
+	elements: (Skill | Publication)[];
 }
 
-const { elements } = Astro.props
+const { elements } = Astro.props;
 ---
 <ul class='space-y-8'>
   {elements.map((element, index) => (

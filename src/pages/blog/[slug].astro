@@ -1,23 +1,24 @@
 ---
-import Layout from '@/layouts/Layout.astro'
-import {template} from '@/settings'
-import {getCollection, render} from 'astro:content'
+import Layout from "@/layouts/Layout.astro";
+import { template } from "@/settings";
+import { getCollection, render } from "astro:content";
 
-export async function getStaticPaths(): Promise<Array<{ params: { slug: string }, props: { post: any } }>> {
-    const blogEntries = await getCollection("blog");
+export async function getStaticPaths(): Promise<
+	Array<{ params: { slug: string }; props: { post: any } }>
+> {
+	const blogEntries = await getCollection("blog");
 
-    const posts = blogEntries
-        .map(post => {
-        const slug = post.id
-            return {
-            params: { slug },
-            props: { post },
-            }
-    })
-    return posts
+	const posts = blogEntries.map((post) => {
+		const slug = post.id;
+		return {
+			params: { slug },
+			props: { post },
+		};
+	});
+	return posts;
 }
-const {post} = Astro.props;
-const { title, date, tags} = post.data; 
+const { post } = Astro.props;
+const { title, date, tags } = post.data;
 const { Content } = await render(post);
 ---
 
