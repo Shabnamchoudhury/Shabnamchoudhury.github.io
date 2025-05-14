@@ -103,6 +103,51 @@ export const skills = [
 	// },
 ];
 
+export const awards = [
+	{
+		year: "2024",
+		description:
+			"Selected as one of the Young Research Fellows for Women in Research",
+	},
+	{
+		year: "2022",
+		description:
+			"Recipient of the prestigious Prime Minister's Research Fellowship (PMRF) in Ph.D for the research tenure. It’s the highest scholarship offered to Ph.D by the Indian Government",
+	},
+	{
+		year: "2020",
+		description: "Best Research Project Award at DRDO, India",
+	},
+	{
+		year: "2018",
+		description:
+			"Second topper (Silver Medal) in Master's in the specialisation",
+	},
+	{
+		year: "2016",
+		description:
+			"GATE AIR: 536 out of 1,25,859 appeared candidates in EE paper",
+	},
+	{
+		year: "2015",
+		description:
+			"First place (Gold Medal) in branch of Electrical Engineering of University",
+	},
+	{
+		year: "2011 - 2015",
+		description: "CET Merit Scholarship",
+	},
+	{
+		year: "2007",
+		description: "Best Student Award, Stewart School, Cuttack",
+	},
+	{
+		year: "2007",
+		description:
+			"Scored Highest mark in Mathematics and Odia Literature in ICSE all over India",
+	},
+];
+
 export const publications = [
 	{
 		title:
