@@ -1,5 +1,5 @@
 export const profile = {
-	fullName: "Dr. Shabnam Choudhury",
+	fullName: "Shabnam Choudhury",
 	title: "AI researcher",
 	institute: "Indian Instutute of Technology, Bombay",
 	author_name: "Choudhury, S.", // Author name to be highlighted in the papers section
@@ -76,7 +76,7 @@ export const template = {
 };
 
 export const seo = {
-	default_title: "Dr. Shabnam Choudhury Portfolio",
-	default_description: "Dr. Shabnam Choudhury Portfolio and personal website.",
+	default_title: "Shabnam Choudhury Portfolio",
+	default_description: "Shabnam Choudhury Portfolio and personal website.",
 	default_image: "/images/astro-academia.png",
 };
